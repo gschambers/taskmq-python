@@ -1,0 +1,12 @@
+# TEMPFILES
+*.pyc
+*.pyo
+
+# VIRTUALENV
+venv
+
+# PROJECT FILES
+*.sublime-*
+
+# ENVVARS
+.env
